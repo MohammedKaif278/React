@@ -1,3 +1,4 @@
+import { ArrayExample } from "../Components/Array/Array";
 import { BooleanExample } from "../Components/Boolean/Boolean";
 import { ToFixed } from "../Components/Number/toFixed/toFixed";
 import { ToLocaleString } from "../Components/Number/ToLocaleString/ToLocaleString";
@@ -18,6 +19,8 @@ export function Home()
             <BooleanExample/>
              ================================================================================================
              <StringExample/>
+             ================================================================================================
+             <ArrayExample/>
         </div>
     )
 }
