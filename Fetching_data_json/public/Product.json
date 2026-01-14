@@ -1,0 +1,13 @@
+{
+    "title":"Iphone 14 pro max",
+    "price":80000,
+    "image":"iphoneimg.webp",
+    "rating":{"rate":4.8,"rating":20000,"review":800},
+    "offers":[
+        "10% off on ICICI Bank Credit Cards, up to ₹1500. On orders of ₹5000 and above T&C",
+        "5% Cashback on Flipkart Axis Bank Card T&C",
+        "No cost EMI on Bajaj Finserv EMI Card on cart value above ₹3000 T&C",
+        "Special Price Get extra ₹3000 off (price inclusive of discount) T&C"
+    ]
+
+}
